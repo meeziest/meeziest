@@ -1,12 +1,12 @@
 # Hi there, I'm Dimash! 👋
 
-### 📱 Flutter Developer & Creative Coder based in Astana
+### 📱 Flutter Developer & Creative Coder)
 
 I'm a passionate developer currently **"flutterting"** with mobile development. I love building custom widgets, exploring physics in UI, and sharing my knowledge with the community.
 
 - 🔭 I’m currently working as **Senior Flutter engineer**.
 - 📝 I write articles on [Medium](https://medium.com/@dinmukhammed.yerimbetov).
-- 💬 Ask me about **Dart, Flutter, and Custom Painters**.
+- 💬 Ask me about **Dart, Flutter**.
 - 📫 Reach me on [Telegram](https://t.me/dart_flutter_with_mizu).
 
 ---
