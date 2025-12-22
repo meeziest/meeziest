@@ -17,7 +17,7 @@ Here are some of the cool visual experiments I've built:
 
 | Project | Description | Tech |
 | :--- | :--- | :--- |
-| **[widgets_playground](https://github.com/meeziest/widgets_playground)** | A collection of experimental and custom Flutter widgets. | `Dart` |
+| **[shader_theme_switcher](https://github.com/meeziest/shader_theme_switcher)** | Shader theme switcher. | `Dart` |
 | **[solar_system](https://github.com/meeziest/solar_system)** | A simulation of the solar system built with code. | `Dart` |
 | **[elastic_blob](https://github.com/meeziest/elastic_blob)** | Physics-based elastic blob simulation. | `Dart` |
 | **[spherical_water...](https://github.com/meeziest/spherical_water_wavy_progress_bar)** | A 3D-like spherical wavy progress bar. | `Dart` |
