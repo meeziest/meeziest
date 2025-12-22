@@ -4,11 +4,15 @@
 
 I'm a passionate developer currently **"flutterting"** with mobile development. I love building custom widgets, exploring physics in UI, and sharing my knowledge with the community.
 
-- 🔭 I’m currently working on advanced **Flutter animations** and **C++** graphics.
+- 🔭 I’m currently working as **Senior Flutter engineer**.
 - 📝 I write articles on [Medium](https://medium.com/@dinmukhammed.yerimbetov).
 - 💬 Ask me about **Dart, Flutter, and Custom Painters**.
 - 📫 Reach me on [Telegram](https://t.me/dart_flutter_with_mizu).
 
+---
+### 🪐 Spotlight: Solar System Simulation
+*A simulation of the solar system built with Dart.*
+https://github.com/user-attachments/assets/bb382664-6dd9-400a-a663-e2393422697f
 ---
 
 ### 🛠️ Languages & Tools
