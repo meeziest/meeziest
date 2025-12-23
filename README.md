@@ -24,7 +24,7 @@ Here are some of the cool visual experiments I've built:
 
 ---
 
-### 🔗 Connect with Me
+### 🔗 Follow my
 
 <p align="left">
 <a href="https://www.linkedin.com/in/dimash-yerimbetov-68275a204/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
