@@ -7,7 +7,7 @@ I'm a passionate developer currently **"flutterting"** with mobile development. 
 - 🔭 I’m currently working as a **Senior Flutter Engineer**.
 - 📝 I write articles on [Medium](https://medium.com/@dinmukhammed.yerimbetov).
 - 💬 Ask me about **Dart, Flutter**.
-- 📫 Reach me on [Telegram](https://t.me/dart_flutter_with_mizu).
+- 📫 Follow my channel on [Telegram](https://t.me/dart_flutter_with_mizu).
 
 ---
 
