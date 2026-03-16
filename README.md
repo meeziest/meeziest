@@ -9,21 +9,6 @@ I'm a passionate developer currently **"flutterting"** with mobile development. 
 - 💬 Ask me about **Dart, Flutter**.
 - 📫 Follow my channel on [Telegram](https://t.me/dart_flutter_with_mizu).
 
----
-
-### 🌟 Featured Projects
-
-Here are some of the cool visual experiments I've built:
-
-| Project | Description | Tech |
-| :--- | :--- | :--- |
-| **[shader_theme_switcher](https://github.com/meeziest/shader_theme_switcher)** | Shader theme switcher. | `Dart` |
-| **[solar_system](https://github.com/meeziest/solar_system)** | A simulation of the solar system built with code. | `Dart` |
-| **[elastic_blob](https://github.com/meeziest/elastic_blob)** | Physics-based elastic blob simulation. | `Dart` |
-| **[spherical_water...](https://github.com/meeziest/spherical_water_wavy_progress_bar)** | Spherical wavy progress bar animation. | `Dart` |
-
----
-
 ### 🔗 Follow my
 
 <p align="left">
